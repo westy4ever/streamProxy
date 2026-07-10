@@ -1,0 +1,27 @@
+[2026-07-10 12:57:00] === LOG INITIALISED ===
+[2026-07-10 12:57:00] [INFO] [PLUGIN] === STARTING INITIALIZATION ===
+[2026-07-10 12:57:00] [DEBUG] [PLUGIN] 1. Importing server...
+[2026-07-10 12:57:00] [DEBUG] [PLUGIN] 2. Server imported OK
+[2026-07-10 12:57:00] [INFO] [PLUGIN] 3. Starting HTTP server...
+[2026-07-10 12:57:00] [INFO] [SERVER] [INFO] Native HTTP server started in background
+[2026-07-10 12:57:00] [DEBUG] [PLUGIN] 4. Server result: True
+[2026-07-10 12:57:00] [DEBUG] [PLUGIN] 5. Importing ServiceMonitor...
+[2026-07-10 12:57:00] [INFO] [SERVER] [OK] Native HTTP server started on port 7860
+[2026-07-10 12:57:00] [INFO] [SERVER] [OK] [CONNECTIVITY] Port 7860 reachable
+[2026-07-10 12:57:00] [INFO] [CORE] TVTap WMS Manager initialized
+[2026-07-10 12:57:00] [INFO] [ServiceMonitor] TVTap WMS Manager available
+[2026-07-10 12:57:00] [INFO] [ServiceMonitor] External proxy available in ServiceMonitor
+[2026-07-10 12:57:00] [INFO] [ServiceMonitor] Freeshot Extractor available
+[2026-07-10 12:57:00] [INFO] [ServiceMonitor] Sport99 Extractor available
+[2026-07-10 12:57:00] [DEBUG] [PLUGIN] 6. ServiceMonitor imported OK
+[2026-07-10 12:57:00] [INFO] [CORE] [SERVICEMONITOR] Configured for modern Enigma2
+[2026-07-10 12:57:00] [INFO] [CORE] Hook installed on playService
+[2026-07-10 12:57:00] [DEBUG] [CORE] Hook added for showFavourites
+[2026-07-10 12:57:00] [INFO] [CORE] ChannelSelection hooks installed successfully
+[2026-07-10 12:57:00] [INFO] [CORE] ServiceMonitor initialized
+[2026-07-10 12:57:00] [INFO] [PLUGIN] 7. [OK] ServiceMonitor instantiated
+[2026-07-10 12:57:00] [INFO] [PLUGIN] 8. [OK] INITIALIZATION COMPLETE
+[2026-07-10 12:57:06] [INFO] [CORE] [SERVICEMONITOR] Intercepted playService: 1:0:19:1325:31:800:DCA0000:0:0:0:
+[2026-07-10 12:57:06] [DEBUG] [CORE] [SERVICEMONITOR] Service parts: 11 elements
+[2026-07-10 12:57:06] [DEBUG] [CORE] [SERVICEMONITOR] URL part: ...
+[2026-07-10 12:57:06] [DEBUG] [CORE] [SERVICEMONITOR] Channel name: 

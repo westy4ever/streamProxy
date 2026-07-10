@@ -1,0 +1,6 @@
+{
+    "plugin_attivo": "ON",
+    "log_abilitato": "ON",
+    "num_lastchan": "",
+    "param_lastchan": ""
+}
