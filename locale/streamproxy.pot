@@ -1,0 +1,38 @@
+# streamproxy translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+
+msgid "Abilita Stream Proxy"
+msgstr ""
+
+msgid "Abilita filtro canali"
+msgstr ""
+
+msgid "Annulla"
+msgstr ""
+
+msgid "Mostra notifiche"
+msgstr ""
+
+msgid "Numero massimo righe log"
+msgstr ""
+
+msgid "Porta proxy"
+msgstr ""
+
+msgid "Salva"
+msgstr ""
+
+msgid "StreamProxy Setup"
+msgstr ""
+
+msgid "User-Agent"
+msgstr ""
+
+msgid "User-Agent personalizzato"
+msgstr ""
+
+msgid "Visualizza log"
+msgstr ""
